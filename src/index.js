@@ -24,7 +24,7 @@ const Spinner = ({className, size, width, height, speed}) => {
       height: ${size}px;
       border-radius: 50%;
       border: 2px solid #D3DAE6;
-      border-color: #07f #D3DAE6 #D3DAE6 #D3DAE6;
+      border-color: #0022fd #D3DAE6 #D3DAE6 #D3DAE6;
       animation: ${spin} ${speed}ms infinite linear;
     `, className
             )}

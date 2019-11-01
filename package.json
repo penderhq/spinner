@@ -1,6 +1,6 @@
 {
   "name": "@pndr/spinner",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Used as a loading indicator",
   "main": "lib/index.js",
   "module": "es/index.js",
